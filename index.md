@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Page info
 
-You can use the [editor on GitHub](https://github.com/aapalo/aapalo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This page will contain brief descriptions of my [Github projects](https://github.com/aapalo)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Advent of Code
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My solutions for [Advent of Code](https://adventofcode.com/), "an Advent calendar of small programming puzzles". 
 
-```markdown
-Syntax highlighted code block
+- [2018](https://github.com/aapalo/aapalo-aoc2018)
+- [2019](https://github.com/aapalo/aoc2019)
+- [2020](https://github.com/aapalo/aoc2020)
+- [2021](https://github.com/aapalo/aoc2021)
 
-# Header 1
-## Header 2
-### Header 3
+# Cougar USB
 
-- Bulleted
-- List
+Convert a Thrustmaster Cougar throttle to a stand-alone USB device using a Pro Micro board and [MMjoy](https://github.com/MMjoy/mmjoy_en)
 
-1. Numbered
-2. List
+- https://github.com/aapalo/cougar-usb
+- https://github.com/aapalo/buttonbox
 
-**Bold** and _Italic_ and `Code` text
+# Freejoy board
 
-[Link](url) and ![Image](src)
-```
+STM32 blue pill board for making a button box running [Freejoy](https://github.com/FreeJoy-Team/FreeJoyWiki), with two encoders, eight axes and six shift registers.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aapalo/aapalo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- https://github.com/aapalo/freejoy-board

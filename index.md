@@ -16,11 +16,11 @@ My solutions for [Advent of Code](https://adventofcode.com/), "an Advent calenda
 
 Convert a Thrustmaster Cougar throttle to a stand-alone USB device using a Pro Micro board and [MMjoy](https://github.com/MMjoy/mmjoy_en)
 
-- https://github.com/aapalo/cougar-usb
-- https://github.com/aapalo/buttonbox
+- <https://github.com/aapalo/cougar-usb>
+- <https://github.com/aapalo/buttonbox>
 
 # Freejoy board
 
 STM32 blue pill board for making a button box running [Freejoy](https://github.com/FreeJoy-Team/FreeJoyWiki), with two encoders, eight axes and six shift registers.
 
-- https://github.com/aapalo/freejoy-board
+- <https://github.com/aapalo/freejoy-board>

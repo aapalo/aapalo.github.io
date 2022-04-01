@@ -3,6 +3,12 @@
 This page will contain brief descriptions of my [Github projects](https://github.com/aapalo)
 
 
+# 3D Printing
+
+My notes, tips, and setup for 3d printing, with an emphasis on the Artillery Genius.
+
+- <https://github.com/aapalo/3d-printing>
+
 # Advent of Code
 
 My solutions for [Advent of Code](https://adventofcode.com/), "an Advent calendar of small programming puzzles". 

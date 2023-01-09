@@ -1,11 +1,11 @@
 # Page info
 
-This page will contain brief descriptions of my [Github projects](https://github.com/aapalo)
+This page will contain short descriptions of my [Github projects](https://github.com/aapalo)
 
 
 # 3D Printing
 
-My notes, tips, and setup for 3d printing, with an emphasis on the Artillery Genius.
+My notes, tips, and setup for 3d printing, with an emphasis on the Artillery Genius. 
 
 - <https://github.com/aapalo/3d-printing>
 
@@ -17,6 +17,7 @@ My solutions for [Advent of Code](https://adventofcode.com/), "an Advent calenda
 - [2019](https://github.com/aapalo/aoc2019)
 - [2020](https://github.com/aapalo/aoc2020)
 - [2021](https://github.com/aapalo/aoc2021)
+- [2022](https://github.com/aapalo/aoc2022)
 
 # Cougar USB
 
